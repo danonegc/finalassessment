@@ -1,0 +1,15 @@
+/* Styles go here */
+body {
+  background-color: #63CEC2;
+}
+.container {
+  font: 'Open Sans'
+  margin: 0 auto;
+}
+h1 {
+  margin:auto;
+}
+
+.two {
+  float:right;
+}
